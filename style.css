@@ -1,0 +1,149 @@
+.education {
+  float: left;
+  width: 40vw;
+  vertical-align: text-top;
+  padding: 20px;
+}
+
+.scholarships {
+  float: left;
+}
+
+.rel_coursework {
+  padding: 0px 0px 0px 4vw;
+  display: inline-block;
+}
+
+.experience {
+  width: 60vw;
+  display: inline-block;
+  vertical-align: text-top;
+  padding: 20px;
+}
+
+.main {
+  margin: 0 auto;
+  font-family: Avenir;
+}
+
+.header .container {
+  vertical-align: middle;
+  font-family: Avenir;
+  display: inline-block;
+  position: absolute;
+  top: 47%;
+  transform: translateY(-50%);
+}
+
+.header .img_container {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 0px 20px 0px 0px;
+}
+
+.header {
+  padding: 20px;
+  background-color: #55596d;
+  height: 240px;
+  position: relative;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 2.5vw;
+  background-color: #55596d;
+  color: white;
+  margin: 0;
+  text-transform: uppercase;
+  padding-top: 4px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 1.75vw;
+  margin: 10px 0px 0px 0px;
+}
+
+h3 {
+  font-size: 1.75vw;
+  margin: 0;
+}
+
+h4 {
+  font-size: 1.5vw;
+  font-weight: bold;
+  margin: 0;
+}
+
+p, li {
+  font-size: 1vw;
+  margin: 0;
+  vertical-align: top;
+}
+
+ul {
+  padding-left: 14px;
+  margin: 0;
+}
+
+h6 {
+  font-size: 1vw;
+  margin: 0;
+  font-weight: bold;
+}
+
+.experience .job_header .title {
+  float: left;
+  width: 60%;
+}
+
+.experience .job_header .info {
+  display: inline-block;
+}
+
+.experience .job_header {
+  height: 68px;
+}
+
+.other_work {
+  float: left;
+}
+
+.volunteer {
+  display: inline-block;
+  padding: 0px 0px 0px 3.5vw;
+}
+
+.freelance {
+  vertical-align: top;
+  display: inline-block;
+  padding: 0px 0px 0px 3.5vw;
+}
+
+.skills .languages {
+  float: left;
+}
+
+.skills .os_tools .tools {
+  display: inline-block;
+  padding: 0px 0px 0px 7.4vw;
+}
+
+.skills .os_tools .os {
+  clear: left;
+  float: left;
+}
+
+.skills .software {
+  display: inline-block;
+  padding: 0px 0px 0px 3.5vw;
+}
+
+.skills .other {
+  float: left;
+}
+
+.skills .os_tools {
+  clear: left;
+}
